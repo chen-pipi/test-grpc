@@ -4,7 +4,7 @@
 // - protoc             v3.20.1
 // source: hello.proto
 
-package Greeter
+package hello_grpc
 
 import (
 	context "context"
