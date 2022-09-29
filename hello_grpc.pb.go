@@ -4,7 +4,7 @@
 // - protoc             v3.20.1
 // source: hello.proto
 
-package hello_grpc
+package test_grpc
 
 import (
 	context "context"
