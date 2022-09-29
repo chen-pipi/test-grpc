@@ -1,4 +1,4 @@
-module test-grpc
+module github.com/chen-pipi/test-grpc
 
 go 1.18
 
